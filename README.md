@@ -1,3 +1,4 @@
+<img src="https://cdn-icons-png.flaticon.com/512/4904/4904105.png">
 # JustCompass
 Android приложение цифрового компаса, использующее сенсоры устройства.
 ## Описание
