@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/512/4904/4904105.png">
+<img src="https://cdn-icons-png.flaticon.com/512/4904/4904105.png" style="width: 30%; height: auto;">
 
 # JustCompass
 
